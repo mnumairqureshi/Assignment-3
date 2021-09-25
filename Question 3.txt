@@ -1,0 +1,7 @@
+void main() {
+  var lst = [1,4,9,16,25,36,49,64,81,100];
+    print (lst.reversed);
+  var lsta = [1,4,9,16,25,36,49,64,81,100];
+    print (lsta);
+  
+}
